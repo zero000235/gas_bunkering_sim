@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+CoolProp
+google-generativeai
+Pillow
+folium
+streamlit-folium
+matplotlib
+scipy
+requests
+numba
